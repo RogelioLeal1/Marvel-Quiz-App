@@ -11,7 +11,7 @@ Marvel Avengers Quiz App is an application that test users knowledge of Marvel C
 
 ### Tools &  Programming Languages Used
 
-Mrvel Quiz App was written using:
+Marvel Quiz App was written using:
 
 •HTML
 
